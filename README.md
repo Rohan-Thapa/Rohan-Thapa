@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-Thapa,
    - A boy who is doing his Bachelor in Ethical Hacking and Cyber Security in Softwarica College, KTM affiliated to Coventry University, UK
-   - Had been coding for last 8 years 👨‍💻
+   - Had been coding since 2012 👨‍💻
    - May have interest in hacking and cyber sercurity world... ​🤔​💭 :)
 - 👀 I’m interested in
    - Tech related stuff, most likely in AI related of Tensor processing, Deep learning and Neural Networking
