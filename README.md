@@ -20,5 +20,5 @@
    - 📧 Email: rohanthapa632@gmail.com
    - 👤 FB: रोहन थापा (ID LINK: https://www.facebook.com/profile.php?id=100047327753878)
    - 📱 Contact: +977-9804022398
-   - 🏙️ Location: Buddhanagar, New Baneswor, Kathmandu-10, Bagmati Province, Nepal 🇳🇵
+   - 🏙️ Location: Panitanki, Minbhawan, New Baneswor, Kathmandu-10, Bagmati Province, Nepal 🇳🇵
 
