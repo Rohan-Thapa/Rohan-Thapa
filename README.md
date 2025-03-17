@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohan-Thapa,
-   - A boy who is doing his Bachelor in Ethical Hacking and Cyber Security in Softwarica College, KTM affiliated to Coventry University, UK
+   - A boy who had done his Bachelor in Ethical Hacking and Cyber Security in Softwarica College, KTM affiliated to Coventry University, UK and graduated at the age 21 in Jan 11, 2025
    - Had been coding since 2012 👨‍💻
    - May have interest in hacking and cyber sercurity world... ​🤔​💭 :)
 - 👀 I’m interested in
@@ -16,6 +16,7 @@
    - Flutter App development with AI work ヾ｜￣ー￣｜ﾉ
    - Personal Website about myself and my progress
    - Website and Web protal development with APIs.
+   - Currently working as .NET developer.
 - 📫 How to reach me through:
    - 📧 Email: rohanthapa632@gmail.com
    - 👤 FB: रोहन थापा (ID LINK: https://www.facebook.com/profile.php?id=100047327753878)
