@@ -19,7 +19,7 @@
    - Currently working as .NET developer.
 - 📫 How to reach me through:
    - 📧 Email: rohanthapa632@gmail.com
-   - 👤 FB: रोहन थापा (ID LINK: https://www.facebook.com/profile.php?id=100047327753878)
+   - 👤 FB: रोहन थापा (ID LINK: https://www.facebook.com/rohan.vikram.thapa)
    - 📱 Contact: +977-9804022398
    - 🏙️ Location: Panitanki, Minbhawan, New Baneswor, Kathmandu, Bagmati Province, Nepal 🇳🇵
 
