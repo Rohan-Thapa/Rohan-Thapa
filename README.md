@@ -16,7 +16,8 @@
    - Flutter App development with AI work ヾ｜￣ー￣｜ﾉ
    - Personal Website about myself and my progress
    - Website and Web protal development with APIs.
-   - Currently working as .NET developer.
+   - Had worked as .NET developer.
+   - Currently working in the filed of AI/ML.
 - 📫 How to reach me through:
    - 📧 Email: rohanthapa632@gmail.com
    - 👤 FB: रोहन थापा (ID LINK: https://www.facebook.com/rohan.vikram.thapa)
